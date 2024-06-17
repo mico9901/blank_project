@@ -1,0 +1,13 @@
+{
+    "javascript.format.placeOpenBraceOnNewLineForFunctions": false,
+    "typescript.format.placeOpenBraceOnNewLineForFunctions": true,
+    "javascript.preferences.jsxAttributeCompletionStyle": "auto",
+    "javascript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.placeOpenBraceOnNewLineForControlBlocks": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": false,
+    "typescript.preferences.jsxAttributeCompletionStyle": "auto",
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+    "javascript.format.enable": false,
+    "typescript.format.enable": false,
+    "javascript.experimental.updateImportsOnPaste": true
+}
