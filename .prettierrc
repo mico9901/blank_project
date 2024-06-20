@@ -6,6 +6,7 @@
     "printWidth": 1000,
     "bracketSpacing": true,
     "arrowParens": "always",
-    "endOfLine": "lf",
-    "singleAttributePerLine": true
+    "endOfLine": "crlf",
+    "singleAttributePerLine": true,
+    "jsxBracketSameLine": true
 }
